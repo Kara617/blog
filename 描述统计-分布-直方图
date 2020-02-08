@@ -21,7 +21,7 @@ Histograms(`geom_histogram()`) display the counts with **bars**
 ggplot(diamonds, aes(carat)) +
   geom_histogram(binwidth = 0.01)
 ``` 
-![img](https://github.com/Kara617/blog/blob/master/R-graphs/hist-binwidth.png)
+![img](https://github.com/Kara617/blog/blob/master/R-graphs/hist-binwidth.png)  
 
 **参数binwidth & bins**  
 * 条形宽度 binwidth: The width of the bins.  
